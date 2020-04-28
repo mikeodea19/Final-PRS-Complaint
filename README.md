@@ -7,6 +7,6 @@
     </style> 
   </head>
   <body>
-    <iframe width="500px" height="700px" frameborder="0" src=https://dabr0010.app.law/?i=docassemble.playground1:huXqbc1FARV6wU4W.yml&new_session=1&key=aaBa6VXW2AdhkXIhec5zvSCwy></iframe>    
+    <iframe width="500px" height="700px" frameborder="0" src="https://dabr0010.app.law/?i=docassemble.playground1:huXqbc1FARV6wU4W.yml&new_session=1&key=aaBa6VXW2AdhkXIhec5zvSCwy"></iframe>    
   </body>
 </html>
